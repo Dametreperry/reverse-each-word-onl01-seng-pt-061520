@@ -1,5 +1,6 @@
 def reverse_each_word(array)
+  reverse
   sentance.each do |sentance|
-    puts reverse("#{array}")
+    puts "#{array}""
   end
 end
