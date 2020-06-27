@@ -1,3 +1,4 @@
 def reverse_each_word(phrase)
-  phrase
+  phrase.reverse.split.reverse.join(" ")
+end
   
